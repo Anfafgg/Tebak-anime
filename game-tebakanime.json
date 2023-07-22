@@ -47,28 +47,60 @@
    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrTfmJP2zP3Dyc60kBMpGyFTvaPX0-bsZPA&usqp=CAU" ,
    "name" : "assassination classroom"
   },
-   {
+  {
    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlnXbIHkVwSMfTCUWF6lZiTAcl4wwkx3CGw&usqp=CAU" ,
    "name" : "haikyuu"
   },
-   {
+  {
    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXLinymLk1vAPfp_Ia1GnEMKFyvvRjtefZhw&usqp=CAU" ,
    "name" : "jujutsu kaisen"
   },
-   {
+  {
    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrb9XoMizS3XqGbGSuICBwsyPGDuXrtwH_A&usqp=CAU" ,
    "name" : "spy x family"
   },
-   {
+  {
    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_dDQ8lBSrjIyxKSkdbauBZh0C9-IO0a27dw&usqp=CAU" ,
    "name" : "detective conan"
   },
-   {
+  {
    "img" : "https://www.detectiveconanworld.com/wiki/images/4/4e/MKVolume_5.jpg" ,
    "name" : "magic kaito"
   },
-   {
+  {
    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4d8Hfs8UqGIgjI1Lja_ZQY_SwK3rxdlFilw&usqp=CAU" ,
    "name" : "kanata no astra"
+  },
+  {
+   "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7S57fMrtmB1txEz0D_Ybc8Z31NOjPW86ORw&usqp=CAU" ,
+   "name" : "munou na nana"
+  },
+  {
+   "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMwELsU059Rx8Qk6GMApz3mrF-tv43FyHUw&usqp=CAU" ,
+   "name" : "attack on Titan"
+  },
+  {
+   "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGMzCxQKdtuxrX8wW-O5VtbwtcsyGlVhY3kQ&usqp=CAU" ,
+   "name" : "another"
+  },
+  {
+   "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JDMacw4xgr_UlqVBw4pIfsfmoTAwklOJIA&usqp=CAU" ,
+   "name" : "black clover"
+  },
+  {
+   "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QkcuJr4oVjCr3laEFKl2XBRz_fzlit_VJg&usqp=CAU" ,
+   "name" : "your lie in april"
+  },
+  {
+   "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7FtTBB5aiyKePAejDxWAk6bwqVYJCpFGnTg&usqp=CAU" ,
+   "name" : "tokyo revengers"
+  },
+  {
+   "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHja2aAg-05dp3wBG1uF2_MNoSh0K8e2vDAA&usqp=CAU" ,
+   "name" : "wotakoi"
+  },
+  {
+   "img" : "https://cdn.antaranews.com/cache/800x533/2016/12/20161206teaser.jpg" ,
+   "name" : "kimi no nawa"
   }
 ]
